@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9jZmhpYmZocThwdXVpdnZtdzQxa3I3eXJmZzB5OWM2M3lqc3dxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkVDsR4FA/giphy.gif" width="300" alt="Networking Cat Typing Fast Meme">
+  <img src="./cat_typing.gif" width="300" alt="Networking Cat Typing Fast Meme">
   
   # 🌐 CN (Computer Networks) 
   ### *Where Data Meets Destiny: A Developer's Journey Through the Digital Backbone*
