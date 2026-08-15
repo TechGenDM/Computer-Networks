@@ -6,6 +6,7 @@
   
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Learning_with_Passion-ff69b4?style=for-the-badge&logo=fire" alt="Learning with Passion" />
+    <img src="https://img.shields.io/badge/Degree-BITS_Pilani-B31B1B?style=for-the-badge&logo=academia" alt="BITS Pilani" />
     <img src="https://img.shields.io/badge/Brain-Scaler_School_of_Technology-blue?style=for-the-badge&logo=probot" alt="Scaler School of Technology" />
     <img src="https://img.shields.io/badge/Sidekick-ChatGPT-00A67E?style=for-the-badge&logo=openai" alt="ChatGPT" />
   </p>
@@ -32,10 +33,11 @@
 
 ## 🎯 **Who Am I?**
 
-I'm **Devashish Mishra**, a fiercely passionate developer who believes that true mastery comes from diving deep into the foundations. Code is poetry, but networking is the stage where that poetry is performed!
+I'm **Devashish Mishra**, a Computer Science student at **BITS Pilani** (in partnership with **Scaler School of Technology**), and a fiercely passionate developer who believes that true mastery comes from diving deep into the foundations. Code is poetry, but networking is the stage where that poetry is performed!
 
 This repository is my playground—a collection of meticulously crafted notes on **Computer Networks (CN)**, forged in the fires of:
 
+- 🏛️ **BITS Pilani** — The alma mater conferring my Computer Science degree.
 - 🎓 **Scaler School of Technology** — The master architects providing the industry-grade curriculum.
 - 🤖 **ChatGPT** — My AI sidekick, turning complex concepts into "aha!" moments.
 - 💭 **My Relentless Curiosity** — Because understanding "why" the packets flow matters infinitely more than just memorizing "what" they are.
@@ -346,7 +348,7 @@ Questions about networking or these notes?
 
 ✨ **These notes are shared for educational purposes.**
 
-- Credit to **Scalar School of Technology** for the curriculum
+- Credit to **BITS Pilani** & **Scaler School of Technology** for the degree program and curriculum
 - Credit to **ChatGPT** for explanations and clarity
 - Credit to **Devashish Mishra** for synthesis and curation
 
