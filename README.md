@@ -1,26 +1,44 @@
-# 🌐 Computer Networks (CN)
-### *Where Data Meets Destiny: A Developer's Journey Through the Digital Backbone*
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9jZmhpYmZocThwdXVpdnZtdzQxa3I3eXJmZzB5OWM2M3lqc3dxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkVDsR4FA/giphy.gif" width="300" alt="Networking Cat Typing Fast Meme">
+  
+  # 🌐 CN (Computer Networks) 
+  ### *Where Data Meets Destiny: A Developer's Journey Through the Digital Backbone*
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Learning_with_Passion-ff69b4?style=for-the-badge&logo=fire" alt="Learning with Passion" />
+    <img src="https://img.shields.io/badge/Brain-Scaler_School_of_Technology-blue?style=for-the-badge&logo=probot" alt="Scaler School of Technology" />
+    <img src="https://img.shields.io/badge/Sidekick-ChatGPT-00A67E?style=for-the-badge&logo=openai" alt="ChatGPT" />
+  </p>
+</div>
 
-```
+```text
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
 ║  "The Internet is 99% visible light traveling through fiber optic cables      ║
-║   at the speed of light, and 100% magic happening in between."               ║
+║   at the speed of light, and 100% magic happening in between."                ║
 ║                                                                               ║
-║  Welcome to Computer Networks—where we make the magic visible. 🚀             ║
+║  Welcome to CN—where we make the magic visible. 🚀                            ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+<div align="center">
+  <img src="https://i.imgflip.com/4q2jxz.jpg" width="400" alt="It's always DNS meme">
+  <br/>
+  <i>(If it's broken, it's probably DNS... or BGP... or a stray cosmic ray)</i>
+</div>
 
 ---
 
 ## 🎯 **Who Am I?**
 
-I'm **Devashish Mishra**, a passionate developer who believes that true mastery comes from understanding the foundations. This repository is my playground—a collection of meticulously crafted notes on **Computer Networks**, synthesized from the wisdom of:
+I'm **Devashish Mishra**, a fiercely passionate developer who believes that true mastery comes from diving deep into the foundations. Code is poetry, but networking is the stage where that poetry is performed!
 
-- 🎓 **Scalar School of Technology** — Industry-grade networking curriculum
-- 🤖 **ChatGPT's genius** — Making complex concepts click
-- 💭 **My relentless curiosity** — Because understanding "why" matters more than memorizing "what"
+This repository is my playground—a collection of meticulously crafted notes on **Computer Networks (CN)**, forged in the fires of:
+
+- 🎓 **Scaler School of Technology** — The master architects providing the industry-grade curriculum.
+- 🤖 **ChatGPT** — My AI sidekick, turning complex concepts into "aha!" moments.
+- 💭 **My Relentless Curiosity** — Because understanding "why" the packets flow matters infinitely more than just memorizing "what" they are.
 
 This isn't just another networking course repository. This is my **intellectual expedition** into the infrastructure that powers our digital world.
 
