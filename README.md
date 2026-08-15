@@ -23,7 +23,7 @@
 ```
 
 <div align="center">
-  <img src="https://i.imgflip.com/4q2jxz.jpg" width="400" alt="It's always DNS meme">
+  <img src="./dns_meme.png" width="400" alt="It's always DNS meme">
   <br/>
   <i>(If it's broken, it's probably DNS... or BGP... or a stray cosmic ray)</i>
 </div>
